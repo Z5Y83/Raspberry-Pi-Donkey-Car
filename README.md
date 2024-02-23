@@ -18,7 +18,7 @@ This project use raspberry pi 3B+ to make a donkey car, combined with opencv cla
    reference: https://www.cnblogs.com/ollie-lin/p/10336271.html
 
 # Reference  
-raspberry pi donkey car code: https://github.com/piepie-tw/pi-follower-car  
+raspberry pi donkey car code(fork from this): https://github.com/piepie-tw/pi-follower-car  
 opencv(classifiers for detecting objects): https://github.com/opencv/opencv/tree/4.x/data  
 cars.xml: https://github.com/andrewssobral/vehicle_detection_haarcascades/tree/master  
 Draw bounding box and tutorial: https://steam.oxxostudio.tw/category/python/ai/ai-cars-dectection.html  
